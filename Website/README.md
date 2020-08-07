@@ -1,7 +1,6 @@
-## Contents
-- NSFW `JPG`
-- SFW `JPG`
+## **__Contents__**
+- **NSFW** `JPG` `JFIF` `PNG` `GIF`
+- **SFW** `JPG` `JFIF` `PNG` `GIF`
 
-### Support
-- <a href=https://phantomdev.netlify.com>PhantomDEV</a>
-- <a href=https://discord.gg/9R5GBe2>Discord</a>
+### **__Support__**
+- <a href="https://www.newhorizon.dev/">**New Horizon Development | Website**</a>
