@@ -1,18 +1,17 @@
-# Images
+# **__Images__**
 Collection of images used by PhantomDEV members within their projects.
 
-## Contents
-- **Apps** `SFW` `NSFW`
-- **Branding** `SFW` `NSFW`
-- **GIF** `SFW` `NSFW`
-- **Multi Purpose** `SFW` `NSFW`
-- **Screenshots** `SFW` `NSFW`
-- **Social** `SFW` `NSFW`
-- **Templates** `SFW` `NSFW`
-- **Webhook** `SFW` `NSFW`
-- **Website** `SFW` `NSFW`
-- **Emoji** `SFW` `NSFW`
+## **__Contents__**
+- **Apps**: `SFW` `NSFW`
+- **Branding**: `SFW` `NSFW`
+- **GIF**: `SFW` `NSFW`
+- **Multi Purpose**: `SFW` `NSFW`
+- **Screenshots**: `SFW` `NSFW`
+- **Social**: `SFW` `NSFW`
+- **Templates**: `SFW` `NSFW`
+- **Webhook**: `SFW` `NSFW`
+- **Website**: `SFW` `NSFW`
+- **Emoji**: `SFW` `NSFW`
 
-### Support
-- <a href=https://www.newhorizon.dev>NewHorizon Development</a>
-- <a href=https://discord.gg/9R5GBe2>Discord</a>
+### **__Support__**
+- <a href="https://www.newhorizon.dev/">**New Horizon Development | Website**</a>
