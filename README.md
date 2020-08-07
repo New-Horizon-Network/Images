@@ -1,5 +1,5 @@
 # **__Images__**
-Collection of images used by PhantomDEV members within their projects.
+Collection of images used by **New Horizon Development** members within their projects.
 
 ## **__Contents__**
 - **Apps**: `SFW` `NSFW`
