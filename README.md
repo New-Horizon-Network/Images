@@ -4,7 +4,6 @@ Collection of images used by PhantomDEV members within their projects.
 ## **__Contents__**
 - **Apps**: `SFW` `NSFW`
 - **Branding**: `SFW` `NSFW`
-- **GIF**: `SFW` `NSFW`
 - **Multi Purpose**: `SFW` `NSFW`
 - **Screenshots**: `SFW` `NSFW`
 - **Social**: `SFW` `NSFW`
